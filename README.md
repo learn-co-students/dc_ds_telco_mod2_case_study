@@ -1,4 +1,4 @@
-#Churn Case Study
+# Churn Case Study
 
 ## Context
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
@@ -36,9 +36,11 @@ We are assuming that all are Early Churn
 
 There are many reasons to churn -> **feature engineering is king**
 
-[churn funnel]
+![churn funnel](./img/funnel.png)
 
-[Actions]
+![Actions](./img/solutions.png)
+
+![time](./img/time.png)
 
 ### Data
 ```
